@@ -1,12 +1,37 @@
-## Hi there 👋
+## 🏠 Jip-coon
+가족 구성원들이 함께하는 게임형 집안일 관리 앱
 
-<!--
+> 집안일을 퀘스트로 만들어 가족 모두가 재미있게 참여할 수 있는 iOS 앱입니다.
 
-**Here are some ideas to get you started:**
+## 📱 주요 기능
+### 🎯 퀘스트 시스템
+퀘스트 등록: 가족 구성원 누구나 집안일을 퀘스트로 등록
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+난이도별 점수: 작업의 복잡도와 소요시간에 따른 차등 점수 부여
+
+상태 관리: 등록됨 → 진행중 → 완료 단계별 진행 상황 추적
+
+### 🏆 랭킹 & 리워드
+실시간 랭킹: 가족 구성원별 월간/주간 점수 순위
+
+배지 시스템: 특별한 업적 달성 시 배지 획득
+
+포인트 적립: 누적 점수를 통한 가족 내 보상 시스템
+
+### 👨👩👧👦 가족 관리
+멤버 초대: 가족 코드를 통한 간편한 멤버 추가
+
+역할 설정: 부모/자녀 역할에 따른 권한 차별화
+
+알림 시스템: 새로운 퀘스트 등록 및 완료 시 실시간 알림
+
+### 🛠 기술 스택
+플랫폼: iOS 버전 기재
+
+언어: Swift 버전 기재
+
+아키텍처: __
+
+UI: UIKit
+
+데이터베이스: Firestore
